@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseublim%2Fhit-counter&count_bg=%234597E7&title_bg=%2388CAE5&icon=&icon_color=%23E5C3C3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **junseublim/junseublim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
