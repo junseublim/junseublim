@@ -9,6 +9,7 @@ Software Engineer
 - Dept. of Information System
 - Dept. of Computer Science
 
+
 ### Software Maestro 12기 
 
   
