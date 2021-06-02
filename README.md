@@ -10,8 +10,6 @@ Software Engineer
 - Dept. of Computer Science
 
 
-### Software Maestro 12기 
-
   
 [![junseublim's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseublim&hide=issues,prs&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
